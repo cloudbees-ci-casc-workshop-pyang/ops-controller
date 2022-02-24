@@ -7,9 +7,9 @@ items:
   name: controller-jobs
   properties:
   - envVars: {
-    }
+      }
   - kubernetesFolderProperty: {
-    }
+      }
   - itemRestrictions:
       allowedTypes:
       - org.jenkinsci.plugins.workflow.job.WorkflowJob
