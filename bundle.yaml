@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "1"
+version: "2"
 id: "cloudbees-ci-casc-workshop-pyang-ops-controller"
 description: "CloudBees CI configuration bundle for the cloudbees-ci-casc-workshop-pyang ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/cloudbees-ci-casc-workshop-pyang/ops-controller"
